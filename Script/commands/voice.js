@@ -17,7 +17,7 @@ const emojiAudioMap = {
  },
  "😡": {
  url: "https://drive.google.com/uc?export=download&id=1S_I7b3_f4Eb8znzm10vWn99Y7XHaSPYa",
- caption: "রাগ কমাও, মাফ করাই বড়ত্ব... 😡"
+ caption: "তার সাথে কথা নাই... 😡"
  },
  "🙄": {
  url: "https://drive.google.com/uc?export=download&id=1gtovrHXVmQHyhK2I9F8d2Xbu7nKAa5GD",
